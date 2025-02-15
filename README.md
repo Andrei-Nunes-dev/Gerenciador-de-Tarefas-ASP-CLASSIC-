@@ -52,7 +52,7 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi remo
 
 ### Escolha do SQL Server
 
-- Foi escolhido usar o SQL Server na aplicação do ASP Clássico ao invés do MySQL devido a problemas de conexão que estavam ocorrendo devido a uma incompatibilidade entre as versões mais recentes do MYSQL e seus drivers, e o ASP Classic.
+- Foi escolhido usar o SQL Server na aplicação do ASP Clássico ao invés do MySQL por conta de problemas de conexão que estavam ocorrendo devido a uma incompatibilidade entre as versões mais recentes do MYSQL e seus drivers, e o ASP Classic.
 - Para conectar o SQL Server ao ASP, foi necessário instalar o Driver do Microsoft OLE DB para SQL Server(MSOLEDBSQL).
 - Para utilizar o SQL Server, foi criado um logon com o nome "root" e a senha "senhaDesafio123%".
 - A string de conexão usada para o SQL Server foi:"Provider=sqloledb;Data Source=localhost\SQLEXPRESS;Initial Catalog=to_do_list;User ID=root;Password=senhaDesafio123%;".
@@ -83,3 +83,6 @@ Link Google Drive: https://drive.google.com/file/d/1ZY_jIW_BAE1n3u1XnIuG7mtB8HN3
     
    [SQL Server]: <https://www.microsoft.com/pt-br/sql-server>
    [Bootstrap 5.3]: <https://getbootstrap.com/>
+
+
+  
