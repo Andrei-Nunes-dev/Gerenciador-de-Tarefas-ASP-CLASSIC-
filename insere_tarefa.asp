@@ -23,7 +23,7 @@
 %>
 
 
-<body style="background-color: #099FFC;">
+<body style="background-color: #099FFC; font-family:'Times New Roman', serif; ">
 	<header style="background-color:white;">
 		<h1 align="center" style = "text:blue;text-decoration: underline;"><i class="fa fa-pencil-square-o" style="font-size:40px;"></i>Inserção de Tarefa</h1>
 	</header>

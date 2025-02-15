@@ -21,7 +21,7 @@
 						tamanhodescricaoDaTarefa = len(descricaoDaTarefa)
 %>
 
-<body style="background-color: #099FFC;">
+<body style="background-color: #099FFC; font-family:'Times New Roman', serif; ">
 
 	<header style="background-color:#ecf0f6;">
 		<h1 align="center" style = "text-decoration: underline;"><i class="fa fa-pencil-square-o" style="font-size:40px;"></i>Editor de Tarefa</h1>

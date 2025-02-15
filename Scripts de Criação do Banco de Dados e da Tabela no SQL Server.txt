@@ -1,0 +1,11 @@
+create database to_do_list;
+
+
+
+use to_do_list;
+create table tarefas(
+	id int NOT NULL IDENTITY PRIMARY KEY,
+    	titulo varchar(80) NOT NULL,
+    	descricao varchar(500) NOT NULL,
+    	data_vencimento date NOT NULL,
+	);
