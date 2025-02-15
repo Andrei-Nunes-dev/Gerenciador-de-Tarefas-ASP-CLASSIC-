@@ -74,11 +74,12 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi remo
 - Acesso padrão a página inicial:"http://localhost/{nome_da_pasta}/".
 - Obs: Pode ser necessário acessar o IIS, acessar as configurações avançadas da Pool de Aplicativos e habilitar aplicativos de 32 bits.
 - Instalar o SQL Server, o Driver do Microsoft OLE DB para SQL Server(MSOLEDBSQL), gerar o banco de dados e a tabela, e criar um logon "root" com senha "senhaDesafio123%".
+---
+
+## Vídeo de execução
+Link Google Drive: https://drive.google.com/file/d/1ZY_jIW_BAE1n3u1XnIuG7mtB8HN3klUu/view?usp=sharing
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
     
    [SQL Server]: <https://www.microsoft.com/pt-br/sql-server>
    [Bootstrap 5.3]: <https://getbootstrap.com/>
-
-
-  
