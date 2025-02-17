@@ -58,7 +58,7 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi remo
 - A string de conexão usada para o SQL Server foi:"Provider=sqloledb;Data Source=localhost\SQLEXPRESS;Initial Catalog=to_do_list;User ID=root;Password=senhaDesafio123%;".
 
 ### Design e Tratamentos do Sistema
-- Devido a quantidade reduzida de funções, decidiu-se colocar as funções de adicionar e visualizar diretamente na página inicial da aplicação, para evitar uma navegação redudante e uma página inicial vazia.
+- Devido a quantidade reduzida de funções, decidiu-se colocar as funções de adicionar e visualizar diretamente na página inicial da aplicação, para evitar uma navegação redundante  e uma página inicial vazia.
 - Decidiu-se dispor as tarefas em uma coluna e de forma "mais estendida" para melhor legibilidade da descrição.
 - Escolheu-se limitar o número máximo de caracteres do título para 40 e da descrição para 500. Essa escolha foi feita devido ao espaçamento nos espaços das tarefas.
 - O sistema não permite selecionar uma data que seja menor que o dia atual.
